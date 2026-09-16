@@ -226,7 +226,7 @@ LOCAL_SHARED_LIBRARIES := \
   liblog \
   libui \
   libutils \
-  libsync_vendor \
+  libsync \
   librga \
   libOpenCL \
   librksvep \
